@@ -1,0 +1,50 @@
+{
+  "slug": "tool-trap",
+  "title": "AI时代，你是否也对层出不迭的工具感到疲惫？",
+  "coverText": "工具陷阱",
+  "scenes": [
+    {
+      "id": "obsidian-system",
+      "title": "Obsidian 与大 P 人",
+      "file": "obsidian-system.html",
+      "scriptParagraphs": 1
+    },
+    {
+      "id": "tool-wave",
+      "title": "层出不穷的工具",
+      "file": "tool-wave.html",
+      "scriptParagraphs": 1
+    },
+    {
+      "id": "hidden-cost",
+      "title": "工具的认知成本",
+      "file": "hidden-cost.html",
+      "scriptParagraphs": 1
+    },
+    {
+      "id": "organic-tool",
+      "title": "从小需求开始生长",
+      "file": "organic-tool.html",
+      "scriptParagraphs": 2
+    },
+    {
+      "id": "old-new",
+      "title": "展示我的真实工具",
+      "file": "old-new.html",
+      "scriptParagraphs": 2
+    },
+    {
+      "id": "crowded-system",
+      "title": "不再硬塞进效率模板",
+      "file": "crowded-system.html",
+      "scriptParagraphs": 1
+    },
+    {
+      "id": "real-question",
+      "title": "从真实麻烦开始",
+      "file": "real-question.html",
+      "scriptParagraphs": 2
+    }
+  ],
+  "updatedAt": "2026-07-12T05:04:29.574Z"
+}
